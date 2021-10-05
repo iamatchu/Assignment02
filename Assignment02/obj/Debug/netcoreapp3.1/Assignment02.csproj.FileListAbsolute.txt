@@ -1,0 +1,15 @@
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.exe
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.deps.json
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.json
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.runtimeconfig.dev.json
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.dll
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\Assignment02.pdb
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csprojAssemblyReference.cache
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfoInputs.cache
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.AssemblyInfo.cs
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.dll
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.pdb
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.genruntimeconfig.cache
+C:\Users\Harish\source\repos\Assignment02\Assignment02\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Harish\source\repos\Assignment02\Assignment02\obj\Debug\netcoreapp3.1\Assignment02.csproj.CopyComplete
