@@ -43,7 +43,7 @@ namespace Assignment02
             return int.Parse(givenUserInput);
         }
 
-        /*  This method contains the list of menu and it is a void method
+        /*  This method contains the list of menu and it is a void method.
          */
         private static void menuMethod()
         {
