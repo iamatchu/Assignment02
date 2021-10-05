@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Assignment02
 {
+    /* This class contains getter and setter methods for the program files to get and set the user
+     * inputs.
+     */
     public class Rectangle
     {
         private int length;
