@@ -4,6 +4,7 @@ using Assignment02;
 namespace Assignment2.test
 {
     /* Unit test case to verify all the methods written in the rectangle class.
+     * Using the annotation test and test fixture.
      */ 
     [TestFixture]
     public class UnitTest1
